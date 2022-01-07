@@ -1,7 +1,7 @@
 # Table of contents
 
 - [关于](README.md)
-- [开始之前](doc/01-env-config.md)
+- [环境设置](setup-env.md)
 - [Vim 基础使用](01-use-vim/README.md)
 - [配置 Neovim](02-config/README.md)
   - [基础配置](02-config/01-basic-config.md)
