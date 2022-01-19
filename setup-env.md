@@ -32,4 +32,4 @@ Homebrew 安装 Neovim `brew install neovim`
 
 安装 neovim `brew install neovim`
 
-Linux 可以安装发行版对应的包管理工具
+Linux 可以使用发行版对应的包管理工具安装
