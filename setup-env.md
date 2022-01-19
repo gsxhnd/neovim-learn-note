@@ -10,6 +10,12 @@ Homebrew 是一款`macOS`/`Linux`平台下的软件包管理工具，拥有安�
 
 Homebrew 官网： <https://brew.sh>
 
+## 安装字体
+
+部分插件 icon 依赖特定的字体，不安装字体会导致图标缺失。
+
+支持的字体下载地址： <https://www.nerdfonts.com/>
+
 ## Windows
 
 如果是`Windows`环境,推荐安装`WSL2`，在`WSL2`的 Linux 环境中使用。
@@ -22,20 +28,8 @@ Homebrew 官网： <https://brew.sh>
 
 Homebrew 安装 Neovim `brew install neovim`
 
-## Linux
-
-Linux 安装 Homebrew： <https://brew.sh/>
-
-安装 neovim `brew install neovim`， 或者使用 Linux 发行版对应的包管理工具
-
-## MacOS
-
-`macOS 安装Homebrew`： <https://brew.sh/>
+## Linux & macOS
 
 安装 neovim `brew install neovim`
 
-## 安装字体
-
-部分插件 icon 依赖特定的字体，不安装字体会导致图标缺失。
-
-支持的字体下载地址： <https://www.nerdfonts.com/>
+Linux 可以安装发行版对应的包管理工具
