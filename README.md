@@ -1,5 +1,7 @@
 # 前言
 
+## Neovim 是什么？
+
 ## 学习教程
 
 Vim 学习教程: <https://github.com/iggredible/Learn-Vimi>
