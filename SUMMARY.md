@@ -2,8 +2,8 @@
 
 - [前言](README.md)
 - [安装](install.md)
-- [基础使用](01-use-vim/README.md)
-  - [光标移动](01-use-vim/01-cursor.md)
+- [基础使用](01-use/README.md)
+  - [光标移动](01-use/01-cursor.md)
 - [配置和插件](02-config/README.md)
   - [基础配置](02-config/01-basic-config.md)
   - [快捷键配置](02-config/02-keybindings.md)
