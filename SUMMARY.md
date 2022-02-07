@@ -1,8 +1,9 @@
 # Table of contents
 
-- [关于](README.md)
-- [环境设置](setup-env.md)
+- [前言](README.md)
+- [安装](install.md)
 - [基础使用](01-use-vim/README.md)
+  - [光标移动](01-use-vim/01-cursor.md)
 - [配置 Neovim](02-config/README.md)
   - [基础配置](02-config/01-basic-config.md)
   - [快捷键配置](02-config/02-keybindings.md)
